@@ -1,0 +1,29 @@
+原始字符串
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+1、距离
+20cm
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+40cm
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+60cm
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+80
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+100
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+2、障碍
+1cm
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+5cm
+kWbvVnzMadXJlNvp6FBMph+giCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+10cm
+      zMadX lNvqvFBMphVN          DRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAr|yK{Ll}OUZa~XOolVDtbyMDDrhTXfnCC
+20cm
++CbvBnxMadX lNvqvFBMphVLkgiQCFfmx$@  cKRaoadtjLD`l   pc n` pqcly anolp` yp`    fnv
+3、环境
+宿舍
+kWbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvC
+走廊
+5WbvVnzMadXJlNvqvFBMphVLkgiQCFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDXBZnAb0qKkLlyMUZanXOglVDtb 9Lr`TXfnvC
+室外
+5C"rVnza X@lNvpvFBphFL!'i AFfmxSDRmPGcKRaoadtjLDjVOZlHWuCMkDBZnAbtqKkLlyMUZanXOolVDtbyMDDrhTXfnvB
